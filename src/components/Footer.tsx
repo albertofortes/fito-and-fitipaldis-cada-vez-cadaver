@@ -61,7 +61,6 @@ const Footer = () => (
         © 2021 <a href="http://www.warnermusic.es/" target="_blank" rel="noreferrer">Warner Music Spain S.L.</a> 
         <a target="_blank" href="http://www.wminewmedia.com/privacy/es/" rel="noreferrer">Política de Privacidad</a> 
         <a href="https://www.wminewmedia.com/cookies-policy/es/" target="_blank">Política de Cookies</a>
-        <a className="ot-sdk-show-settings">Ajustes de Cookies</a> 
         <a target="_blank" rel="noreferrer" href="https://www.wminewmedia.com/terms-of-use/es/">Aviso Legal</a> 
         <a target="_blank" rel="noreferrer" href="http://www.warnermusic.es/datos/politica/warner/Hojasdereclamaciones.pdf">Hoja de Reclamaciones</a>
       </FooterLinks>

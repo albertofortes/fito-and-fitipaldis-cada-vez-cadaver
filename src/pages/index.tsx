@@ -200,34 +200,6 @@ const IndexPage = () =>  {
 
       <link rel="canonical" href="http://cadavezcadaver.es/" />
 
-      <script async id="onetrustcdn" src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-document-language="true" type="text/javascript" charset="UTF-8" data-domain-script="86930988-a6be-46cc-8de9-b7f060e42e5a"></script>  
-      
-      <script>{`
-        var digitalData = {
-          settings:{					
-            reportSuites:"wmg,wmges"				
-          },					
-          page:{					
-            pageInfo:{				
-              pageName:"Fito y Fitipaldis:Cada vez cadaver Merch Drop:Landing",			
-              server:"Fito y Fitipaldis:Site",			
-              platform:"Static HTML",			
-              devTeam:"Warner Music Spain"			
-            },				
-            category:{				
-              primaryCategory:"Fito y Fitipaldis:Landing Page",			
-              pageType:"Landing Page:Merch Drop"			
-            }				
-          },					
-          content:{					
-            artist:"Fito y Fitipaldis",				
-            label:"Warner Music International",				
-            sublabel:"Warner Music Spain"				
-          }	
-        }
-      `}</script>      
-      <script src="//assets.adobedtm.com/launch-EN302b8a31b75a4dda8ff8df1d0cdb4762.min.js" async></script>	
-
     </Helmet>
     <ThemeProvider theme={theme}>
       <GlobalStyle />
